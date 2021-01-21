@@ -1,2 +1,2 @@
-# c++_portfolio
-My first repository, containing some of my first code
+# portfolio
+My first repository, containing code which I want to spotlight for recruiters

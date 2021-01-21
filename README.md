@@ -1,2 +1,2 @@
-# portfolio
-A collections of my programming projects through the years
+# c++_portfolio
+My first repository, containing some of my first code
